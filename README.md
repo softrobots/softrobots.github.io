@@ -1,8 +1,8 @@
 # Evolving Modular Soft Robots without Explicit Inter-Module Communication using Local Self-Attention
 
-This repo contains the videos for the anonymous submission for GECCO 2022.
+This repo contains the videos for our GECCO 2022 paper.
 
-### If all you want to do is view the page locally (i.e. you are a reviewer)
+### If all you want to do is view the page locally
 
 Run `python -m http.server` to serve on the base directory to view `index.html` in a local browser.
 
