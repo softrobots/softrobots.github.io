@@ -1,4 +1,4 @@
-This is the Supplementary Material page with videos of our experimental results. Please see the paper for details.
+This is the Supplementary Material page with videos of our experimental results. Please see the [paper](https://arxiv.org/) for details.
 
 ______
 
@@ -25,4 +25,3 @@ ______
 ## 6) Fine-tuning on a large comb the self-attention evolved on a small one.
 
 <video class="b-lazy" data-src="assets/finetune-comb-large/finetune-comb-large-4.mp4" type="video/mp4" autoplay muted playsinline loop style="width: 100%; padding-top: 0;" ></video>
-
