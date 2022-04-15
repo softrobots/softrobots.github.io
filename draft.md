@@ -1,4 +1,4 @@
-This is the Supplementary Material page with videos of our experimental results. Please see the [paper](https://arxiv.org/) for details.
+This is the Supplementary Material page with videos of our experimental results. Please see the [paper](https://arxiv.org/abs/2204.06481) for details.
 
 ______
 
